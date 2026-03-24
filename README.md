@@ -9,6 +9,7 @@ To write a C program to find the area of a triangle using pointers.
 2) assign pointers to the variables. 
 3) find the area of the triangle using those pointers. 
 4) print the result using printf() function. 
+
  
 ## PROGRAM: 
 ``` 
