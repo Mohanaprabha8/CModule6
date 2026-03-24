@@ -102,6 +102,7 @@ int main() {
 ## OUTPUT: 
  
 Enter a number: 25 
+
 The number is Positive. 
  
  
